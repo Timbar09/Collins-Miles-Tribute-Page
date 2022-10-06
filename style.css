@@ -52,16 +52,16 @@ body {
 }
 
 #img-div {
-background-color: var(--bg-body);
-padding: 0.625rem;
-text-align: center;
+  background-color: var(--bg-body);
+  padding: 0.625rem;
+  text-align: center;
 }
 
-#image{
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
 }
 
 #img-caption {
@@ -84,8 +84,14 @@ text-align: center;
   margin: 1rem 0;
 }
 
-
 #tribute-list span {
   font-weight: bold;
 }
 
+.quote {
+  max-width: 32.1875rem;
+  margin: auto;
+  text-align: left;
+  font-style: italic;
+  padding: 1rem;
+}
